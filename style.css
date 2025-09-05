@@ -1,4 +1,7 @@
 
+      /* Estilizando o index */
+      
+      
       body {
 
             background: #020024;
@@ -28,6 +31,26 @@
 
 
         }
+
+        /* Estilizando o formulario */
+
+        #formulario {
+            background-image: url(./assents/desktop-wallpaper-galaxy-for-walls.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;
+            
+        }
+
+        #box_form {
+            border: solid black;
+            padding-top: 30px;
+            padding-bottom: 30px;
+            padding-left: 40%;
+            padding-right: 40%;
+            
+        }
+
+
 
 
 
